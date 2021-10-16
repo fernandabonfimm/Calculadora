@@ -1,4 +1,4 @@
-
+// Author: Fernanda Bonfim Santos - Ciência da Computação || 2Semestre //
 
 #include<stdio.h>
 #include<math.h>
